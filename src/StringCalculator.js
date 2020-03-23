@@ -1,4 +1,3 @@
 export default class StringCalculator {
-  static add() {
-  }
+  static add() {}
 }
